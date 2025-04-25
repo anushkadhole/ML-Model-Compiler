@@ -1,4 +1,9 @@
 # Full-Stack ML Model Optimization Platform
+
+![Screenshot (380)](https://github.com/user-attachments/assets/760b33b8-4810-4e33-a629-ed203933ee9d)
+
+![Screenshot (381)](https://github.com/user-attachments/assets/69079894-7109-4088-8606-d919d4360fb7)
+
 This system optimizes ML models using TVM/XLA/LLVM and deploys them with Flask + React.js on AWS.
 
 # ML Model Compiler & Optimization Platform
@@ -13,16 +18,6 @@ A full-stack platform that optimizes deep learning models using compiler-level t
 - **Database:** PostgreSQL (for model/job tracking)
 - **DevOps:** Docker, GitHub Actions CI
 - **Cloud-ready:** AWS Lambda (serverless), EC2 (Graviton-compatible)
-
-
-
-### 📸 Screenshots
-
-| Upload Page | Optimization Results |
-|-------------|----------------------|
-| ![Upload](screenshots/upload.png) | ![Results](screenshots/results.png) |
-
----
 
 ### 🚀 Features
 
