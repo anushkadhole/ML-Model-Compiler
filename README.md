@@ -10,7 +10,7 @@ This system optimizes ML models using TVM/XLA/LLVM and deploys them with Flask +
 
 A full-stack platform that optimizes deep learning models using compiler-level tools like **TVM**, **XLA**, and **LLVM**, and deploys them on cloud-native environments (e.g., AWS Graviton, Lambda, EC2). This project aligns with compiler design, compute graph optimization, and system performance — perfect for ML infra, cloud, and compilers.
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 - **Frontend:** React.js, JavaScript, HTML/CSS
 - **Backend:** Flask (Python), REST API, Docker
@@ -19,7 +19,7 @@ A full-stack platform that optimizes deep learning models using compiler-level t
 - **DevOps:** Docker, GitHub Actions CI
 - **Cloud-ready:** AWS Lambda (serverless), EC2 (Graviton-compatible)
 
-### 🚀 Features
+###  Features
 
 - ✅ Upload ML models (ONNX, PyTorch)
 - ✅ Choose target: CPU / GPU / TPU
